@@ -55,8 +55,6 @@ export const Profile = ({ username, tag, location, avatar, stats }) => {
           gap: '10px',
           listStyle: 'none',
           padding: '0',
-          // marginLeft: 'auto',
-          // marginRight: 'auto',
         }}
       >
         <li
