@@ -1,0 +1,24 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    width: calc(100% / 5);
+    padding: 20px 0;
+    border: 1px solid black;
+}
+
+.pdf{
+    background-color: red;
+}
+
+.docx{
+    background-color: blue;
+}
+
+.mp3{
+    background-color: orange;
+}
+
+.psd{
+    background-color: blueviolet;
+}

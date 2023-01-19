@@ -1,0 +1,25 @@
+.transactionHistory{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+}
+
+
+thead th:nth-child(2) {
+  width: 20%;
+}
+
+thead th:nth-child(3) {
+  width: 15%;
+}
+
+thead th:nth-child(4) {
+  width: 35%;
+}
+
+th {
+    background-color: rgb(111, 75, 197);
+  padding: 20px;
+}
+

@@ -1,0 +1,27 @@
+.item {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  padding: 10px;
+  border-radius: 4px;
+}
+.status {
+  display: block;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+
+.statusOff {
+  background-color: red;
+}
+
+.statusOn {
+  background-color: green;
+}
+
+.name {
+    font-style: 26px;
+}
